@@ -23,7 +23,21 @@
 		"@ui5/fs": "^2.0.6",
 		"@ui5/logger": "^2.0.1",
 		"@sap/ux-ui5-tooling": "1",
-		"rimraf": "3.0.2"
+        "rimraf": "3.0.2",
+         "@sap/ui5-builder-webide-extension": "^1.1.0",
+    "@sapui5/ts-types": "1.71.x",
+    "bestzip": "2.1.4",
+    "karma": "^4.4.1",
+    "karma-chrome-launcher": "^3.1.0",
+    "karma-coverage": "^2.0.3",
+    "karma-htmlfile-reporter": "^0.3.8",
+    "karma-qunit": "^4.1.1",
+    "karma-sinon": "^1.0.5",
+    "karma-ui5": "^2.3.1",
+    "puppeteer": "^2.0.0",
+    "qunit": "^2.12.0",
+    "rimraf": "3.0.2",
+    "sinon": "^9.2.1"
 	},
 	"ui5": {
 		"dependencies": [
